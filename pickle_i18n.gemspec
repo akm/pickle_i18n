@@ -28,6 +28,7 @@ Gem::Specification.new do |s|
     "lib/pickle_i18n.rb",
     "lib/pickle_i18n/parser.rb",
     "lib/pickle_i18n/session.rb",
+    "pickle_i18n.gemspec",
     "spec/pickle_i18n_spec.rb",
     "spec/spec_helper.rb"
   ]
